@@ -1,0 +1,11 @@
+property of table-
+1. Table is a type of inline level element
+2. table ko html document mein use krne ke liye <table>..</table> tag ka use krte hai.
+3. <tr>..</tr> ka use hm row design krne ke liye krte hai.
+4. row ke andr data likhe ke liye <td></td> hai mtlb us table row ka kya data hai jo hme help krta hai column design krne ke liye.
+5. agr hme table ka header design krna hai to hm <th>..</th> ka use krte hai.
+full form -
+<tr> --> table row
+<td> --> table data
+<th> --> table header
+<tbody> -->table body
