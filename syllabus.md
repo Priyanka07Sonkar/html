@@ -1,0 +1,19 @@
+- [x] html tag
+- [x] head tag
+- [x] title tag
+- [x] body tag
+- [x] h1...h6 tag
+- [x] p tag
+- [x] pre tag
+- [x] b tag
+- [x] i tag
+- [x] u tag
+- [x] table tag,tr tag, th tag,td tag
+- [x] a tag
+- [x] img tag
+- [x] form tag,input tag
+- [x] nav tag
+- [x] header tag
+- [x]  div tag
+- [ ] section tag
+- [x] footer tag
